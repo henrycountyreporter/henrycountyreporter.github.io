@@ -39,5 +39,7 @@ The lawsuits that ultimately were dismissed and or settled in the newspaper’s 
 <p>After the closing former prosecutor came forward and vindicated the newspaper’s reporting stating that they were aware of nearly one hundred complaints regarding drug planting by the Dothan police department. A former assitant district attorney went on the record acknowledging that he had seen false and malicious prosecutions by the district attorney. A former narcotics agent in the judicial district went on the record acknowledged that specific people in the community were targeted and he had personally witnessed drug planting in Henry county.
 In 2019 the results of a Justice Department investigation were leaked that revealed documents acknowledging widespread complaints of drug planting vindicating the newspaper’s earlier reporting.
  <p>
-Pelham continues to write and lives in Pennsylvania and Carroll in Alabama where continues his photography and raises cattle. In 2017 his documentary work became part of a documentary that won the ? film festival. “No Man’s Land”. He is currently working on a documentary film about the murders of J.B. Beasley and Tracie Hawlett.
+Pelham continues to write and lives in Pennsylvania and Carroll in Alabama where continues his photography and raises cattle. In 2017 his photography and film work became part of a documentary that was nominated Best Documentary Feature at the Tribeca Film Festival in 2017 and the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+ 
+ 
 
