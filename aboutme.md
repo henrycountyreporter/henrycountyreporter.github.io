@@ -5,7 +5,7 @@ subtitle: The Henry County Reporter
 ---
 
 ##The Henry County Reporter 
-(originally the Barbour-Henry Reporter) was a weekly online newspaper that served the community of south Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, and Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Carroll it’s photographer.
+(originally the Barbour-Henry Report) was a weekly online newspaper that served the community of south Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, and Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Carroll it’s photographer.
 
 Two Henry County natives, Recy Taylor and Pulitzer prize-winning journalist Grover C. Hall were the inspiration behind its creation. Hall wrote in the 1930’s speaking out against the Klan in south Alabama and was an early advocate for the Civil Rights movement while writing in the Alabama Journal. 
 https://www.newspapers.com/title_7946/alabama_journal/
