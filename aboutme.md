@@ -28,7 +28,8 @@ The newspaper then publsihed leaked bodycam footgage from the shooting that indi
    <p>
    Carroll wrote a weekly editorial that often focused on the district attorney for Henry and Houston counties that led to him seeking early retirement. The editorials contained hundreds of leaked documents revealed the prosecutor’s office corruption and racism which were picked up by the New York Times. These editorials exposed Doug Valeska’s alleged abuses targeting minorities and arranging all-white juries to convict black defendants with a weekly inteview with victims. One example is below.
     <p>
-    https://vimeo.com/358659754
+   <iframe src="https://player.vimeo.com/video/358659754?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/358659754">Kenneth Moffitt</a> from <a href="https://vimeo.com/jonbcarroll">9318 Films</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
      <p>
     
     <p>In 2014 Carroll wrote a series about an inmate named Kharon Davis that had been held in the county jail for nearly a decade while denied a trial. The local newspaper (Dothan Eagle) had refused to publish any information about at the request of the mother nor would the district attorney’s office acknowledge the case to the public. Carroll broke the story by interviewing the mother and then met with the New York Time’s Serge Kovawleski who ran a series of articles that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history ( 11 years). 
