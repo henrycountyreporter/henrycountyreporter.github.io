@@ -6,7 +6,7 @@ subtitle:
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/home-bg.jpg" alt="screenshot">
 
-<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Reporter, was a weekly online newspaper that served the community of Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, and Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Carroll it’s primary photographer.
+<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Reporter, was a weekly online newspaper that served the community of Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, and Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
 <p>
  <strong> History:</strong>
  <p>
@@ -22,11 +22,15 @@ In 2013 they received a grant from the Highlander Research and Education center 
  <p>
   <strong> Controversy:</strong>
   <p>
-The newspaper became extremely controversial among white residents that supported continued segregation and linked to white supremacy groups as it focused on exposing racial and judicial disparity issues in the courts that the nearby Dothan Eagle and Abbeville Herald refused to cover. 
+The newspaper became controversial among white residents linked to white supremacy groups as it focused on exposing racial and judicial disparity issues in the courts that the nearby Dothan Eagle and Abbeville Herald refused to cover. 
   <p>Pelham published a series of articles and interviews about the Eufaula Police Chief Ralph Connor’s shooting or an unarmed man Cameron Massey. Pelham revealed a background check had not been performed before the chief’s hire that would have revealed another shooting of an unarmed black man in the back while he was a police officer in Montgomery Alabama in 1983. The city had settled with the family of that victim. 
 The newspaper then publsihed leaked bodycam footgage from the shooting that indicated Massey appeared to have given no to be shot. The chief subsequently resigned and Pelhams story recieved national attention and was picked up by Buzzfeed and the New Republic.
    <p>
-   Carroll wrote a weekly editorial that often focused on the district attorney for Henry and Houston counties that led to him seeking early retirement. The editorials contained hundrrds of leaked documents revealed the prosecutor’s office corruption and racism which were picked up by the New York Times. The Time's further exposed Doug Valeska’s alleged abuses targeting minorities and arranging all-white juries to convict black defendants. 
+   Carroll wrote a weekly editorial that often focused on the district attorney for Henry and Houston counties that led to him seeking early retirement. The editorials contained hundreds of leaked documents revealed the prosecutor’s office corruption and racism which were picked up by the New York Times. These editorials exposed Doug Valeska’s alleged abuses targeting minorities and arranging all-white juries to convict black defendants with a weekly inteview with victims. One example is below.
+    <p>
+    https://vimeo.com/358659754
+     <p>
+    
     <p>In 2014 Carroll wrote a series about an inmate named Kharon Davis that had been held in the county jail for nearly a decade while denied a trial. The local newspaper (Dothan Eagle) had refused to publish any information about at the request of the mother nor would the district attorney’s office acknowledge the case to the public. Carroll broke the story by interviewing the mother and then met with the New York Time’s Serge Kovawleski who ran a series of articles that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history ( 11 years). 
      <p>Local white supremacy groups and police officers tied to the Sons of Confederate Veterans and the League of the South accused Carroll of hacking the prosecutor’s files that revealed transcripts of interviews with confidential informants acknowledging officers instructing the informants to plant drugs. In response Dothan city officals (E911 Coordinator) labled Carroll a "domestic terroist". In response Carroll published intercepted text messages that appeared to indicate the married man offering young men money for sex and video of him chaining to young black men the the door of a courthouse.
       
