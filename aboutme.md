@@ -44,5 +44,5 @@ In 2019 the results of a Justice Department investigation were leaked that revea
  <p>
 Pelham continues to write and lives in Pennsylvania and Carroll in Alabama where continues his photography and raises cattle. In 2017 his photography and film work became part of a documentary that was nominated Best Documentary Feature at the Tribeca Film Festival in 2017 and the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
  
- 
+ <p> A selection of the newspaper most popular articles were published on Medium and are still available.
 
