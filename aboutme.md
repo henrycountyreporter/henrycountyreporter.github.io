@@ -39,9 +39,9 @@ The newspaper then publsihed leaked bodycam footgage from the shooting that indi
   <strong> Lawsuits:</strong>
 <hr>
 In 2015 Carroll published the <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e">most controversial article in the newspaper's history containing leaked secret files from a Dothan Police department’s internal affairs investigation</a> that detailed accusations made by multiple police officers against a narcotics officer that was planting drugs and weapons on black men. In the article was a photo of Dothan Police Chief which Carroll alleged was the "Commander" of a local Sons of Confederate Veterans group and had named his son after the founder of the Ku Klux Klan.
-
+<p>
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/scv.jpg">
-
+<p>
 This resulted in a U.S. Department of Justice Civil Rights investigation of which the results have never been made public. The Dothan Police Chief and District Attorney denied they had ever had a single complaint. Over 6 million people shared the article worldwide. Carroll, however, refused interviews or to share the files ( several hundred ) with the Southern Poverty Law Center due honoring an agreement with his source which led to pushback by the center who demanded access to them. Members of white supremacy groups threatened Carroll, cattle were poisoned on his family farm. Multiple officers then filed lawsuits against the newspaper for defamation. Former Ozark Police Chief Tony Spivey, Lt. Rex Tipton and Deputy Keith Cauthen claimed the article, which revealed a reserve officer had come forward and given a statement that former officers at the department had involvement in the 1999 murders of J.B. Beasley and Tracie Hawlett, was false.
  Howevever, the reserve officer held to her story when interviewed by the police department and Houston County Deputy Donovan Arias. The Attorney General's Cold Case unit head, Special Agent Shawn Smith acknowledged the officer did in fact make the claim and had been interviewed contradicting the claims against Carroll.
  
