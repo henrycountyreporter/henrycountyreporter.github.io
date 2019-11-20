@@ -31,12 +31,13 @@ The newspaper then publsihed leaked bodycam footgage from the shooting that indi
 <p> Interview with Kenneth Moffit from the Henry County Reporter.</p>
      <p>
     
-    <p>In 2014 Carroll wrote a series about an inmate named Kharon Davis that had been held in the county jail for nearly a decade while denied a trial. The local newspaper (Dothan Eagle) had refused to publish any information about at the request of the mother nor would the district attorney’s office acknowledge the case to the public. Carroll broke the story by interviewing the mother and then met with the New York Time’s <a href="https://www.nytimes.com/2017/09/19/us/alabama-kharon-davis-speedy.html">Serge Kovawleski who ran a series of articles</a> that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history ( 11 years). 
+    <p>In 2014 Carroll wrote a series about an inmate named Kharon Davis that had been held in the county jail for nearly a decade while denied a trial. The local newspaper (Dothan Eagle) had refused to publish any information about at the request of the mother nor would the district attorney’s office acknowledge the case to the public. Carroll broke the story by interviewing the mother and then met with the New York Time’s <a href="https://www.nytimes.com/2017/09/19/us/alabama-kharon-davis-speedy.html">Serge Kovawleski who ran a series of articles</a> that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history (11 years).
+    
      <p>Local white supremacy groups and police officers tied to the <a href="https://scv.org">Sons of Confederate Veterans</a> and the <a href="https://en.wikipedia.org/wiki/League_of_the_South">League of the South</a> accused Carroll of hacking the prosecutor’s files that revealed transcripts of interviews with confidential informants acknowledging officers instructing the informants to plant drugs. In response a Dothan city official labled Carroll a "domestic terrorist" for his weekly interviews with victims of the judicial system. In response Carroll published intercepted text messages that appeared to indicate the married man offering young men money for sex and video of him chaining to young black men the the door of a courthouse and leaked a FBI document that listed his business partner on a white suprimict watch list.
       
    <p>   
   <strong> Lawsuits:</strong>
-<hr></hr>
+<hr>
 In 2017 Carroll published the <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e">most controversial article in the newspaper's history containing leaked secret files from a Dothan Police department’s internal affairs investigation</a> that detailed accusations made by multiple police officers against a narcotics officer that was planting drugs and weapons on black men. In the article was a photo of Dothan Police Chief which Carroll alleged was the "Commander and foudner of a local Sons of Confederate Veterans group and had named his son after the founder of the Ku Klux Klan.
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/scv.jpg">
@@ -49,13 +50,13 @@ This resulted in a U.S. Department of Justice Civil Rights investigation of whic
 The lawsuits ultimately were dismissed and or settled in the newspaper’s favor. This occurred only after it filed for bankruptcy which removed the cases from the local Alabama courts where the plantiffs faced a federal judge in the Tenth Circuit of Colorado and countersuit. The cases, which provided no evidence of their allegations of defamation, were all subsequently dismissed. Carroll in return dropped his lawsuits and was reimbursed for his legal expenses. The newspaper was then closed as Pelham and Carroll no longer lived in Alabama.
   <p>
    <strong> Criticism:</strong>
-   <hr></hr>
-   Criticism of the newspaper was widespread. Howwveer it is hard to detemrine the truth in the regions newspaper who largely under report or ignored the stories the Henry Report broke. The Dothan Eagle led by Lance Griffen and Matt Elofson consistantly attmepted to downplay or disparage the newspaper and to this day attemt to call them only "bloggers". However the henry Report deeply embarrased the Dothan eagle as seevral national stories they had ignored or refused to prevnt reached millions of readers with the Henry County Reporter.At one point multiple article son the Henry County Reporter ( non-profit) had over a millions views which surpassed the entire readeship of the Dothan Eagle (for profit) annually.
+   <hr>
+   Criticism of the newspaper was widespread. However it is hard to determine the truth in the region's newspaper who largely ignored the stories the Henry Report broke. The Dothan Eagle, led by Lance Griffen and Matt Elofson, consistantly attempted to smear and disparage the newspaper and to this day label them only "bloggers". However the <ital>Henry County Reporter</ital> broke seevral national stories they had ignored reaching millions of readers. At one point multiple articles on the Henry County Reporter ( non-profit) had over a millions views which surpassed the entire readeship of the Dothan Eagle (for profit) annually.
    Another frequent criticism is that Carroll went after the District attorney for personal reasons that had nothign to do with journalism or a operating a community newspaper. 
    
-   
+   <p>
    <strong> Closing:</strong>
-   <hr></hr>
+   <hr>
 <p>After the closing of the Hnery County Reporter former prosecutor came forward and vindicated the newspaper’s reporting stating that they were aware of nearly one hundred complaints regarding drug planting by the Dothan police department. A former assitant district attorney went on the record acknowledging that he had seen false and malicious prosecutions by the district attorney. A former narcotics agent in the judicial district went on the record ina  interview acknowledging that specific people in the community were targeted and he had personally witnessed drug planting in Henry county.
 In 2019 the results of a Justice Department investigation were leaked that revealed documents acknowledging widespread complaints of drug planting vindicating the newspaper’s earlier reporting.
  <p>
