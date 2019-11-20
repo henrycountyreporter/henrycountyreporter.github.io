@@ -38,7 +38,7 @@ In 2017 Carroll published the most controversial article in the newspaper's hist
  
  <p>The newspaper and Carroll, then a resident of Washington state, <a href="https://www.courtlistener.com/docket/16259833/7/1/carroll-v-white/"> filed a first amendment retaliation suit</a> against them in federal court. Meetings secretly recorded by an attorney with the police officer’s lawyers reveal they wanted Carroll to retract the story and publish false articles supportive of local judges and prosecutors and wanted the newspaper's sources revealed. After these recordings became known they made allegations that Carroll had hacked the law firms' digital devices and used them to record conversations they deemed private and legally privileged. Carroll denied the claims.
  <p>
-The lawsuits that ultimately were dismissed and or settled in the newspaper’s favor. This occurred only after he filed for the newspaper’s bankruptcy which removed the cases from the local Alabama courts where faced a federal judge in the Tenth Circuit of Colorado. The cases which provided no evidence of their allegations of defamation were all subsequently dismissed and one settled in Carroll’s favor. Carroll in return dropped his lawsuits and was reimbursed for his legal expenses. the newspaper was then closed permanently.
+The lawsuits that ultimately were dismissed and or settled in the newspaper’s favor. This occurred only after he filed for the newspaper’s bankruptcy which removed the cases from the local Alabama courts where faced a federal judge in the Tenth Circuit of Colorado. The cases which provided no evidence of their allegations of defamation were all subsequently dismissed and one settled in Carroll’s favor. Carroll in return dropped his lawsuits and was reimbursed for his legal expenses. The newspaper was then closed as Pelham and Carroll no longer lived in Alabama.
   <p>
    <strong> Closing:</strong>
 <p>After the closing former prosecutor came forward and vindicated the newspaper’s reporting stating that they were aware of nearly one hundred complaints regarding drug planting by the Dothan police department. A former assitant district attorney went on the record acknowledging that he had seen false and malicious prosecutions by the district attorney. A former narcotics agent in the judicial district went on the record acknowledged that specific people in the community were targeted and he had personally witnessed drug planting in Henry county.
@@ -46,5 +46,5 @@ In 2019 the results of a Justice Department investigation were leaked that revea
  <p>
 Pelham continues to write and lives in Pennsylvania and Carroll in Alabama where continues his photography and raises cattle. In 2017 his photography and film work became part of a documentary that was nominated Best Documentary Feature at the Tribeca Film Festival in 2017 and the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
  
- <p> A selection of the newspaper most popular articles were published on Medium and are still available.
+ <p> A selection of the newspaper most popular articles are published on Medium and are available.
 
