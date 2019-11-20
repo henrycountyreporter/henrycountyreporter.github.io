@@ -5,9 +5,12 @@ subtitle:
 ---
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/home-bg.jpg" alt="screenshot">
-
+ <strong> About:</strong>
+ <p>
 <strong>The Henry County Reporter</strong>, originally the Barbour-Henry Reporter, was a weekly online newspaper that served the community of Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, and Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Carroll it’s primary photographer.
-
+<p>
+ <strong> History:</strong>
+ <p>
 Two Henry County natives, <a href="https://en.wikipedia.org/wiki/Recy_Taylor"> Recy Taylor</a> and Pulitzer prize-winning journalist Grover C. Hall were the inspiration behind its creation. Hall wrote in the 1930’s speaking out against the Klan in south Alabama and was an early advocate for the Civil Rights movement while writing in the <a href="https://www.newspapers.com/title_7946/alabama_journal/">Alabama Journal</a>. 
 
 In 2010 local officials removed a sign honoring Hall due to his support of the civil rights movement and later refused to allow a opening of the film about Recy Taylor that received global recognition in <a href="https://www.therapeofrecytaylor.com">The Rape of Recy Taylor by Nancy Buirski</a>. 
