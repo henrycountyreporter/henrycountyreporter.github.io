@@ -48,7 +48,14 @@ This resulted in a U.S. Department of Justice Civil Rights investigation of whic
  <p>
 The lawsuits ultimately were dismissed and or settled in the newspaper’s favor. This occurred only after it filed for bankruptcy which removed the cases from the local Alabama courts where the plantiffs faced a federal judge in the Tenth Circuit of Colorado and countersuit. The cases, which provided no evidence of their allegations of defamation, were all subsequently dismissed. Carroll in return dropped his lawsuits and was reimbursed for his legal expenses. The newspaper was then closed as Pelham and Carroll no longer lived in Alabama.
   <p>
+   <strong> Criticism:</strong>
+   <hr></hr>
+   Criticism of the newspaper was widespread. Howwveer it is hard to detemrine the truth in the regions newspaper who largely under report or ignored the stories the Henry Report broke. The Dothan Eagle led by Lance Griffen and Matt Elofson consistantly attmepted to downplay or disparage the newspaper and to this day attemt to call them only "bloggers". However the henry Report deeply embarrased the Dothan eagle as seevral national stories they had ignored or refused to prevnt reached millions of readers with the Henry County Reporter.At one point multiple article son the Henry County Reporter ( non-profit) had over a millions views which surpassed the entire readeship of the Dothan Eagle (for profit) annually.
+   Another frequent criticism is that Carroll went after the District attorney for personal reasons that had nothign to do with journalism or a operating a community newspaper. 
+   
+   
    <strong> Closing:</strong>
+   <hr></hr>
 <p>After the closing of the Hnery County Reporter former prosecutor came forward and vindicated the newspaper’s reporting stating that they were aware of nearly one hundred complaints regarding drug planting by the Dothan police department. A former assitant district attorney went on the record acknowledging that he had seen false and malicious prosecutions by the district attorney. A former narcotics agent in the judicial district went on the record ina  interview acknowledging that specific people in the community were targeted and he had personally witnessed drug planting in Henry county.
 In 2019 the results of a Justice Department investigation were leaked that revealed documents acknowledging widespread complaints of drug planting vindicating the newspaper’s earlier reporting.
  <p>
