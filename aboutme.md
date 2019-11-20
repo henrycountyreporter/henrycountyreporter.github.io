@@ -10,7 +10,6 @@ subtitle:
 <p>
  <strong> History:</strong> 
  <hr>
- <p>
 Two Henry County natives, <a href="https://en.wikipedia.org/wiki/Recy_Taylor"> Recy Taylor</a> and Pulitzer prize-winning journalist <a href="https://en.wikipedia.org/wiki/Grover_C._Hall">Grover C. Hall</a> were the inspiration behind its creation. Hall wrote in the 1930’s speaking out against the Klan in south Alabama and was an early advocate for the Civil Rights movement while writing in the <a href="https://www.newspapers.com/title_7946/alabama_journal/">Alabama Journal</a>. 
 
 In 2010 local officials removed a sign honoring Hall due to his support of the civil rights movement and later refused to allow a opening of the film about Recy Taylor that received global recognition in <a href="https://www.therapeofrecytaylor.com">The Rape of Recy Taylor by Nancy Buirski</a>. 
