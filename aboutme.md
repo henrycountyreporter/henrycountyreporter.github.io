@@ -51,8 +51,12 @@ The lawsuits ultimately were dismissed and or settled in the newspaper’s favor
   <p>
    <strong> Criticism:</strong>
    <hr>
-   Criticism of the newspaper was widespread. However it is hard to determine the truth in the region's newspaper who largely ignored the stories the Henry Report broke. The Dothan Eagle, led by Lance Griffen and Matt Elofson, consistantly attempted to smear and disparage the newspaper and to this day label them only "bloggers". However the <ital>Henry County Reporter</ital> broke seevral national stories they had ignored reaching millions of readers. At one point multiple articles on the Henry County Reporter ( non-profit) had over a millions views which surpassed the entire readeship of the Dothan Eagle (for profit) annually.
-   Another frequent criticism is that Carroll went after the District attorney for personal reasons that had nothign to do with journalism or a operating a community newspaper. 
+   Criticism of the newspaper was widespread. However it is hard to determine the truth in the region's newspaper who largely ignored the stories the Henry Report broke. The Dothan Eagle, led by Lance Griffen and Matt Elofson, consistantly attempted to smear and disparage the newspaper and to this day label them only "bloggers". However the <i>Henry County Reporter</i> broke several national stories they had ignored reaching millions of readers. At one point multiple articles on the Henry County Reporter (non-profit) had over a millions views which surpassed the entire readeship of the Dothan Eagle (for profit) annually.
+   <p>
+   Another frequent criticism is that Carroll went after District Attorney Doug Valeska for personal reasons that had nothing to do with journalism or a operating a community newspaper. Carroll denies these claims. Hwever ina 2018 Austin Tx podcast Carroll described a meeting with Valeska where his girlfriend had a daughter that was sexually molested by a older man long connected and a political supporter of Valeska. The county's dept of chid serviced (DHR) wanted to press charges but Valeska blocked it. Reportly by those in the meeting Carroll told Valeska "are you sure you want to dance". Valeska then alleged Carroll threatened him and said "we're going to dance motherf@#*%r" when he blocked charges being filed against the man alleged of molesting the child. Indeed they did for three long years in south Alabama resulting in Valeska seeking early retirement and abandoning all hope of becoming the next state attorney general. 
+ In 2015 a judge outed Carroll as a former undercover officer and a ex-wife and organization in Dothan ( Dothan for Justice Now) made claims that Carrollw as a former intelligence officer when photos surfaced of him in the middle east.
+ Carroll denied the claims but acknowleged having served as a sworn officer.
+ 
    
    <p>
    <strong> Closing:</strong>
