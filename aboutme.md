@@ -6,7 +6,7 @@ subtitle:
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/home-bg.jpg" alt="screenshot">
 
-<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper that served the community of Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
+<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper serving the community of southeast Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
 <p>
  <strong> History:</strong> 
  <hr>
@@ -15,16 +15,16 @@ In 2010 officials removed a sign honoring Hall due to his support of the civil r
  
 <p>“The Reporter” as it was known locally covered issues of judicial and legislative corruption in what is described as the “news desert” of southeast Alabama. 
 <a href="https://ethics.harvard.edu/blog/measuring-illegal-and-legal-corruption-american-states-some-results-safra">Harvard University’s Edward Safra Center for Government Ethics</a> ranked the region as having one of the most corrupt judicial systems in the United States.
-In 2013 it received a grant from the <a href="https://www.highlandercenter.org">Highlander Research and Education Center</a> to address marginalized voices in the community. Carroll was awarded the Zilphia P. Horton grant training him as a community advocate.
+In 2013 it received a grant from the <a href="https://www.highlandercenter.org">Highlander Research and Education Center</a> to address marginalized voices in the community. Carroll was awarded the Zilphia P. Horton grant for training as a community advocate.
  <p>
   <strong> Controversy:</strong>
  <hr>
 The newspaper became controversial among residents linked to white supremacy groups as it exposed issues of racial disparity in the courts that the Dothan Eagle and Abbeville Herald (local newspapers) had long ignored.
    
   <p>Pelham published a series of articles and interviews about the Eufaula Police Chief Ralph Connor’s shooting of an unarmed man Cameron Massey. Pelham revealed a background check had not been performed before the chief’s hire that would have revealed another shooting of an unarmed black man in the back while he was a police officer in Montgomery Alabama. The city had settled with the family of that victim. 
-The newspaper then published leaked bodycam footgage from the shooting indicating Massey was unarmed and wearing a seatbelt and passenger in the car while shot. The chief subsequently resigned and Pelham's story recieved national attention and was picked up by Buzzfeed and the New Republic.
+The newspaper then published leaked bodycam footgage from the shooting indicating Massey was unarmed and wearing a seatbelt as a passenger in the car. The chief subsequently resigned and Pelham's story recieved national attention and was picked up by Buzzfeed and the New Republic.
    <p>
-   Carroll wrote a weekly column about livestock and that routinely focused on the district attorney for Henry and Houston counties (20th judicial district) that led to him leaving office. The articles contained hundreds of leaked documents revealed the prosecutor’s office corruption and racism which were picked up by the New York Times. These editorials exposed the prosecutor’s office targeted minorities and arranged all-white juries to convict black defendants and interviews of it's victims. 
+   Carroll wrote a weekly column about livestock and routinely focused on the district attorney (Doug Valeska) for Henry and Houston counties (20th judicial district) that led to him leaving office. The articles contained hundreds of leaked documents revealing the prosecutor’s office corruption and racism. These editorials exposed the prosecutor’s office targeted minorities and arranged all-white juries to convict black defendants and frequently interviewed it's victims. 
     <p>
    <iframe src="https://player.vimeo.com/video/358659754?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p> Interview with Kenneth Moffit by Jon B. Carroll for the Henry County Reporter.</p>
