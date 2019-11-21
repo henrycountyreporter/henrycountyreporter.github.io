@@ -41,7 +41,7 @@ In 2015 Carroll published the <a href="https://medium.com/@jonbcarroll/leaked-do
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/scv.jpg">
 <p>
 The article resulted in a U.S. Department of Justice Civil Rights investigation of which the results have never been made public. The Dothan Police Chief and District Attorney denied they had ever had a single complaint. Over 6 million people shared the article. Carroll, however, refused interviews with national media or to share the files with the Southern Poverty Law Center due to agreements with his source which led to pushback by the center who demanded access to them.
- Carroll did grant 60 minutes producer Megan Towey temporary access.
+ Carroll did grant 60 minutes producer Megan Towey access.
  Members of white supremacy groups subsequently threatened to kill Carroll's mother who was in a local nursing home / rehab facility and cattle were posioned on his family farm. 
  
 In 2016 several officers filed lawsuits against the newspaper for defamation. Former Police Chiefs John White (Dothan) and Tony Spivey (Ozark), along with Lt. Rex Tipton and Deputy Keith Cauthen alleged an article, which claimed a Ozark reserve officer had come forward and claimed a former officer had involvement in the 1999 murders of J.B. Beasley and Tracie Hawlett, was false.
