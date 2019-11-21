@@ -6,7 +6,8 @@ subtitle:
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/home-bg.jpg" alt="screenshot">
 
-<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper serving the community of southeast Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
+<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper serving the community of southeast Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer,Trevor Daniels, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
+<p>
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/hcr-profiles.jpg">
 
  <strong> History:</strong> 
@@ -14,7 +15,7 @@ subtitle:
 Two Henry County natives, <a href="https://en.wikipedia.org/wiki/Recy_Taylor"> Recy Taylor</a> and Pulitzer prize-winning journalist <a href="https://en.wikipedia.org/wiki/Grover_C._Hall">Grover C. Hall</a> were the inspiration behind its creation. Hall wrote in the 1930’s speaking out against the Klan in southeast Alabama and was an early advocate for the Civil Rights movement while writing in the <a href="https://www.newspapers.com/title_7946/alabama_journal/">Alabama Journal</a>. 
 In 2010 officials removed a sign honoring Hall due to his support of the civil rights movement and later refused to allow a opening of the film in Abbeville about Recy Taylor that received global recognition in <a href="https://www.therapeofrecytaylor.com">The Rape of Recy Taylor</a> by Nancy Buirski. Pelham and Carroll launched the newspaper in response.
  
-<p>“The Reporter” as it was known locally covered issues of judicial and legislative corruption in what is described as the “news desert” of southeast Alabama. 
+<p>“The Reporter” as it was known locally was largely focused on covering issues of judicial and legislative corruption in what is described as the “news desert” of southeast Alabama. 
 <a href="https://ethics.harvard.edu/blog/measuring-illegal-and-legal-corruption-american-states-some-results-safra">Harvard University’s Edward Safra Center for Government Ethics</a> ranked the region as having one of the most corrupt judicial systems in the United States.
 In 2013 it received a grant from the <a href="https://www.highlandercenter.org">Highlander Research and Education Center</a> to address marginalized voices in the community. Carroll was awarded the Zilphia P. Horton grant for training as a community advocate.
  <p>
@@ -63,6 +64,8 @@ In 2018 the lawsuits were dismissed in the newspaper’s favor. This occurred on
    <p>
    Another frequent criticism is Carroll went after District Attorney Doug Valeska for personal reasons that had nothing to do with journalism. Both Pelham and Carroll deny these claims. However in a 2018 Austin Texas podcast Carroll described a meeting with Valeska where his girlfriend had a daughter that was sexually molested by a former county official that was a political supporter of Valeska. The county's Dept of Child Services (DHR) wanted to press charges but Valeska blocked it. Reportly by those present in the meeting Carroll warned Valeska "are you sure you want to dance with me". Valeska then alleged Carroll threatened him when he said "we're going to dance motherf@#*%r". After a formal complaint the FBI determined Carroll did not threaten Valeska physically and declined action.
  But no doubt they did "dance" politically for three long years of political drama in south Alabama resulting in Valeska leaving office in disgrace and abandoning hope of becoming the next attorney general for the state. 
+ <p>
+ <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/doug.jpg">
  
  <p>In 2017 a judge connected to former district attorney Valeska criminally outed Carroll as a former undercover officer and an ex-wife and organization in Dothan (Dothan for Justice Now) claimed that Carroll was a former intelligence officer when photos surfaced of him in the middle east.
  Carroll denied the claims but acknowleged having served as a sworn officer in a police departement.
