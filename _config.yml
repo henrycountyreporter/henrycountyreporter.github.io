@@ -20,8 +20,9 @@ url: "https://henrycountyreporter.com"
 
 # List of links in the navigation bar
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
   Archived Articles:
+    - Documents Allege Dothan Police Officer Planted Drugs: "https://link.medium.com/mYvRs6eHM1/"
     - Leaked Documents Allege Dothan Police Officer Planted Drugs: "https://link.medium.com/mYvRs6eHM1/"
     - Ozark Officer Comes Forward in 1999 Cold Case: "http://henrycountyreporter.github.io/"
 # Image to show in the navigation bar - image must be a square (width = height)
