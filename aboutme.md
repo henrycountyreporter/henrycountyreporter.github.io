@@ -32,7 +32,7 @@ The newspaper then published leaked bodycam footgage from the shooting revealing
 <p> Interview with Kenneth Moffit by Jon B. Carroll for the Henry County Reporter.</p>
      <p>
     
- In 2014 Carroll wrote a article about Kharon Davis, an inmate held in the Houston county jail for nearly a decade and denied a trial. The local newspaper, the Dothan Eagle, long a supporter of the prosecutor and police department, refused to publish information about the case nor would the district attorney’s office acknowledge the case. Carroll broke the story by interviewing the mother and then met with the New York Time’s <a href="https://www.nytimes.com/2017/09/19/us/alabama-kharon-davis-speedy.html">Serge Kovawleski who ran a series of articles</a> that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history.
+ In 2014 Carroll and Pelham wrote articles about Kharon Davis, an inmate held in the Houston county jail for nearly a decade and denied a trial. The local newspaper, the Dothan Eagle, long a supporter of the prosecutor and police department, refused to publish information about the case nor would the district attorney’s office acknowledge the case. Carroll broke the story by interviewing the mother and then met with the New York Time’s <a href="https://www.nytimes.com/2017/09/19/us/alabama-kharon-davis-speedy.html">Serge Kovawleski who ran a series of articles</a> that brought national attention. Davis remains the longest-held person arrested for a crime and denied a trial in American jurisprudence history.
     
    <p>   
   <strong> Lawsuits:</strong>
