@@ -88,7 +88,7 @@ In 2018 the lawsuit were dismissed in the newspaper’s favor. This occurred onl
 <p>After the closing of the Henry County Reporter a former prosecutor came forward and vindicated the newspaper’s reporting stating they "were aware of nearly one hundred complaints regarding drug planting by the Dothan police department". A former assistant district attorney went on record acknowledging he "had seen false and malicious prosecutions by the district attorney". A former narcotics agent in the judicial district went on record in an interview acknowledging "specific people in the black community were targeted and he had personally witnessed drug planting in Henry county".
 In 2019 the results of a Justice Department investigation were leaked that revealed documents acknowledging widespread complaints of drug planting vindicating the newspaper’s earlier reporting.
  <p>
-Pelham continues to write and lives in Pennsylvania and is involved in a energy business, Carroll continues his documentary photography and raises cattle. His long term partner and girlfriend reportedly has banned him from writing for or even reading newspapers. 
+Pelham continues to write and lives in Pennsylvania and is involved in energy and trucking business, Carroll continues his documentary photography and raises cattle. His long term partner and girlfriend reportedly has banned him from writing for or even reading newspapers. 
   In 2017 his photography and film work in < a href="https://www.youtube.com/watch?v=twT0u1KEFpE">"No Man's land"</a> was nominated Best Documentary Feature at the Tribeca Film Festival and the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
  
  <p> A selection of the newspaper's most popular articles are published on Medium.
