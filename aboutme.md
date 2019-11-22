@@ -71,7 +71,7 @@ In 2018 the lawsuit were dismissed in the newspaper’s favor. This occurred onl
  <p>
  <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/doug.jpg">
  
- <p>In 2017 a judge connected to former district attorney Valeska illegally outed Carroll as a former undercover officer and an ex-wife and organization in Dothan (Dothan for Justice Now) claimed Carroll was a former intelligence officer when photos surfaced of him in the middle east.
+ <p>In 2017 a judge connected to former district attorney Valeska illegally outed Carroll as a former undercover officer and an ex-wife, a sheriff's candidate and the organization Dothan for Justice Now claimed Carroll was a former intelligence officer and published photos of him in the middle east.
  Carroll denied the claims but acknowleged having served as a sworn officer in a police departement.
  
    <p>
