@@ -21,14 +21,9 @@ url: "https://henrycountyreporter.com"
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Popular Articles:
+  Archived Articles:
     - Leaked Documents Allege Dothan Police Officer Planted Drugs: "https://link.medium.com/mYvRs6eHM1/"
     - Ozark Officer Comes Forward in 1999 Cold Case: "http://henrycountyreporter.github.io/"
-    - Failed Background Check Led to Hire of Chief who KIlled Massey: "http://henrycountyreporter.github.io/"
-     - Search For Recita Kennedy Recovers Her Body: "http://henrycountyreporter.github.io/"
-     - Kharon Davis Held in Dothan Jail and Denied Trial for a Decade: "http://henrycountyreporter.github.io/"
- 
-
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
