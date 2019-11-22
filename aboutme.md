@@ -6,7 +6,7 @@ subtitle:
 
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/home-bg.jpg" alt="screenshot">
 
-<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper serving the community of southeast Alabama from 2010-2016. Co-founded by Robbie Pelham and Jon B. Carroll, it featured articles written by Teresa Crozier, Felicia Palmer,Trevor Daniels, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
+<strong>The Henry County Reporter</strong>, originally the Barbour-Henry Report, was a weekly newspaper serving the community of southeast Alabama from 2010-2016. Co-founded by <a href="http://robbiepelham.com">Robbie Pelham</a> and <a href="http://jonbcarroll.com">Jon B. Carroll</a>, it featured articles written by Teresa Crozier, Felicia Palmer,Trevor Daniels, LaDonna Stinson, Penny Rogers, Kenny Glasgow, Robbie Pelham, Jon B. Carroll and Bettie Carroll. Pelham served as it’s editor and Crozier and Carroll it’s primary photographers.
 <p>
 <img src="https://henrycountyreporter.s3.ap-northeast-2.amazonaws.com/hcr-profiles.jpg">
 <p>
